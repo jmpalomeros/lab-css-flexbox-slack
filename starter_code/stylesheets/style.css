@@ -8,3 +8,96 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+
+@media (max-width:767px) {
+    
+}
+body{
+font-family:'Times New Roman', Times, serif; 
+margin:10px;
+width: auto;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+img{
+border:black 50px
+}
+
+nav{
+    display: flex;
+    background-color: purple;
+    background-image: url(starter_code\images\background-singup.png);
+    align-items: stretch;
+    justify-content: space-evenly;
+    width: auto;
+    padding: 
+};
+
+#first-h{
+    color:white;
+    text-align: center
+
+}
+
+
+
+main{
+    margin=0;
+    
+    position:relative;
+}
+
+#nav-buttons{
+    background-color: purple;
+}
+#header-buttons{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px 0;
+    }
+#h-button1{
+    height: 50px;
+    background-color: blue;
+    color:white;
+    text-transform: uppercase;
+    
+}
+#h-button2{
+    height: 50px;
+    color: purple;
+    text-transform: uppercase;
+    }
+
+#img-h-button{
+    display: flex;
+    align-content:;
+
+
+    height: 20px;
+    
+}
+
+main{
+    background-color: ivory;
+}
+
+
+
+
+
+@media(max-width:1023px) and (min-width: 768px){
+
+}
+
+@media(min-width: 1024px) and (max-width: 1439px){
+
+}
+
+@media(min-width: 1440px){
+
+
+}
+    

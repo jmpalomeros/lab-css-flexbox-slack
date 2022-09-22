@@ -6,7 +6,7 @@
 
 **Slack** is a cloud-based set of team collaboration tools and services, or in simpler terms, an online chat application.
 
-We use Slack app almost every day to keep our communications with our classmates and the **Ironhack** team, but today we will be focusing on their landing page. In today's lab, we'll recreate Slack's landing page while ensuring it's responsive and adapts well to different screens. You can see the web page that we will be cloning [here](https://www.figma.com/proto/k77VYVA70WcPYRLvg4QmIf/LAB-CSS-Slack-Clone?node-id=125%3A3&scaling=scale-down-width&page-id=125%3A2&starting-point-node-id=125%3A3&hide-ui=1).
+We use Slack app almost every day to keep our communications with our classmates and the **Ironhack** team, but today we will be focusing on their landing page. In today's lab, we'll recreate Slack's landing page while ensuring it's responsive and adapts well to different screens. You can see the web page that we will be cloning [here](httpscd .://www.figma.com/proto/k77VYVA70WcPYRLvg4QmIf/LAB-CSS-Slack-Clone?node-id=125%3A3&scaling=scale-down-width&page-id=125%3A2&starting-point-node-id=125%3A3&hide-ui=1).
 
 
 
